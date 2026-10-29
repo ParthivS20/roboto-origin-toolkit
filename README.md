@@ -89,4 +89,4 @@ python3 -m unittest discover -s tools/motor_comms_verifier -v
 
 Tests use simulated transports. Live read-only bench SLCAN discovery/readback was previously verified; ID writes/save and full-robot commissioning require separate live checks.
 
-PDFs and videos use Git LFS. Install Git LFS and run `git lfs install` on a new team computer before cloning/pushing. This repository is initialized locally; no remote has been connected. Configure the team remote as private.
+PDFs and videos use Git LFS. Install Git LFS and run `git lfs install` on a new team computer before cloning/pushing.
