@@ -1,0 +1,27 @@
+Experimental left shoulder check: kp=240.0, kd=5.0; factory values 40/2; stop above 10.0 Nm reported torque. This software stop is not a hardware torque limit.
+Support robot/arms; remove ALL pins and fixtures. E-stop ready. Stop other controllers.
+Type MOVE to confirm pins removed and begin: MOVE
+ID 14: PMAX/VMAX/TMAX=(12.5, 20.0, 28.0), kp=240.0, kd=5.0
+Cycle 1: Left shoulder pitch 45.0° up and back
+ID 14: after SDK enable: status=1, raw=1e 7f ac 7f f8 01 1e 1b; nominal status 0=disabled, 1=enabled; IDs above 15 can overlap the status nibble. Verify the motor LED.
+ID 14: target=-0.00° actual=+0.00° velocity=-0.005 rad/s torque=+0.02 Nm estimated MIT torque=+0.02 Nm status=1
+ID 14: target=-0.06° actual=+0.00° velocity=-0.005 rad/s torque=-0.31 Nm estimated MIT torque=-0.23 Nm status=1
+ID 14: target=-0.23° actual=-0.02° velocity=-0.005 rad/s torque=-1.03 Nm estimated MIT torque=-0.88 Nm status=1
+ID 14: target=-0.52° actual=-0.17° velocity=-0.034 rad/s torque=-1.62 Nm estimated MIT torque=-1.33 Nm status=1
+ID 14: target=-0.92° actual=-0.59° velocity=-0.044 rad/s torque=-1.48 Nm estimated MIT torque=-1.25 Nm status=1
+ID 14: target=-1.44° actual=-1.18° velocity=-0.005 rad/s torque=-1.17 Nm estimated MIT torque=-1.17 Nm status=1
+ID 14: target=-2.07° actual=-1.70° velocity=-0.024 rad/s torque=-1.61 Nm estimated MIT torque=-1.53 Nm status=1
+ID 14: target=-2.81° actual=-2.40° velocity=-0.005 rad/s torque=-1.84 Nm estimated MIT torque=-1.80 Nm status=1
+ID 14: target=-3.65° actual=-3.30° velocity=-0.063 rad/s torque=-1.43 Nm estimated MIT torque=-1.29 Nm status=1
+ID 14: target=-4.59° actual=-4.24° velocity=-0.005 rad/s torque=-1.61 Nm estimated MIT torque=-1.60 Nm status=1
+ID 14: target=-5.62° actual=-5.25° velocity=-0.103 rad/s torque=-1.50 Nm estimated MIT torque=-1.24 Nm status=1
+ID 14: target=-6.74° actual=-6.27° velocity=-0.103 rad/s torque=-1.78 Nm estimated MIT torque=-1.64 Nm status=1
+ID 14: target=-7.90° actual=-7.48° velocity=-0.083 rad/s torque=-1.68 Nm estimated MIT torque=-1.59 Nm status=1
+ID 14: target=-9.15° actual=-8.79° velocity=-0.073 rad/s torque=-1.54 Nm estimated MIT torque=-1.40 Nm status=1
+ID 14: target=-10.50° actual=-9.97° velocity=-0.034 rad/s torque=-2.33 Nm estimated MIT torque=-2.31 Nm status=1
+ID 14: target=-11.91° actual=-11.45° velocity=-0.015 rad/s torque=-2.00 Nm estimated MIT torque=-2.10 Nm status=1
+ID 14: target=-13.33° actual=-12.83° velocity=-0.063 rad/s torque=-2.18 Nm estimated MIT torque=-2.01 Nm status=1
+ID 14: target=-14.79° actual=-14.25° velocity=-0.083 rad/s torque=-2.09 Nm estimated MIT torque=-2.09 Nm status=1
+ID 14: target=-16.34° actual=-15.69° velocity=-0.093 rad/s torque=-2.63 Nm estimated MIT torque=-2.50 Nm status=1
+Stopped: ID 14: velocity -0.151 rad/s exceeds 0.15 rad/s. Cleanup attempted disable commands; verify motor LEDs.
+[2000-01-01 10:30:49.428] [motors] [info] CAN interface can2 closed successfully.

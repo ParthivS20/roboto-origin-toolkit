@@ -1,0 +1,80 @@
+[
+  {
+    "episode": 1,
+    "title": "EP01 前置说明",
+    "file": "01_introduction.mp4",
+    "source": "https://www.bilibili.com/video/BV16scUzWE2Z/?p=1",
+    "cid": 36688758760,
+    "duration_seconds": 50,
+    "quality": 64,
+    "format": "mp4720",
+    "size_bytes": 3510233,
+    "sha256": "d07993942eabe3373d61adcdd25b1be1b1860439e5a53b8043aa1f1e9ad0df50",
+    "downloaded": "2026-10-13"
+  },
+  {
+    "episode": 2,
+    "title": "EP02 腿部组装",
+    "file": "02_leg_assembly.mp4",
+    "source": "https://www.bilibili.com/video/BV16scUzWE2Z/?p=2",
+    "cid": 36688758790,
+    "duration_seconds": 361,
+    "quality": 64,
+    "format": "mp4720",
+    "size_bytes": 50352028,
+    "sha256": "7a133bf8dbe5ba34a40366cd3b31ca57a6085d3c2608c7933336833e7792a39b",
+    "downloaded": "2026-10-13"
+  },
+  {
+    "episode": 3,
+    "title": "EP03 髋部组装",
+    "file": "03_hip_assembly.mp4",
+    "source": "https://www.bilibili.com/video/BV16scUzWE2Z/?p=3",
+    "cid": 36688758911,
+    "duration_seconds": 411,
+    "quality": 64,
+    "format": "mp4720",
+    "size_bytes": 61989591,
+    "sha256": "20173424498100b338a1843f3941e0190c073fd658ca2a6e14a5eae1e0a923ff",
+    "downloaded": "2026-10-13"
+  },
+  {
+    "episode": 4,
+    "title": "EP04 腿部与髋部连接安装",
+    "file": "04_leg_to_hip_connection.mp4",
+    "source": "https://www.bilibili.com/video/BV16scUzWE2Z/?p=4",
+    "cid": 36688759155,
+    "duration_seconds": 82,
+    "quality": 64,
+    "format": "mp4720",
+    "size_bytes": 12281851,
+    "sha256": "dc1e324691cdf6e8c0eb1c6115e0f096a620841d96dd89f98d4625e3e2398172",
+    "downloaded": "2026-10-13"
+  },
+  {
+    "episode": 5,
+    "title": "EP05 腰部安装",
+    "file": "05_waist_assembly.mp4",
+    "source": "https://www.bilibili.com/video/BV16scUzWE2Z/?p=5",
+    "cid": 36688759261,
+    "duration_seconds": 499,
+    "quality": 64,
+    "format": "mp4720",
+    "size_bytes": 80602494,
+    "sha256": "7798c3f776a7175f37944c54d45fba025c665613240ed4d40ad7a8acaadddd81",
+    "downloaded": "2026-10-13"
+  },
+  {
+    "episode": 6,
+    "title": "EP06 手臂连接安装",
+    "file": "06_arm_connection.mp4",
+    "source": "https://www.bilibili.com/video/BV16scUzWE2Z/?p=6",
+    "cid": 36688759327,
+    "duration_seconds": 416,
+    "quality": 64,
+    "format": "mp4720",
+    "size_bytes": 62076725,
+    "sha256": "6ec77ac85f1d15e89a515d3c3fa525af186cd7d0509359b42688fe88733fafaf",
+    "downloaded": "2026-10-13"
+  }
+]

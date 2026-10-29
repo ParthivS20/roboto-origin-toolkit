@@ -1,0 +1,34 @@
+[
+  {
+    "file": "dm_usb2canfd_app_1005.enc",
+    "source_url": "https://raw.githubusercontent.com/dmBots/dm-tools/master/USB2CANFD/%E5%9B%BA%E4%BB%B6/%E5%87%BA%E5%8E%82%E5%9B%BA%E4%BB%B6/%E5%8E%86%E5%8F%B2%E5%9B%BA%E4%BB%B6/dm_usb2canfd_app_1005.enc",
+    "sha256": "23681c4f17c54b1ce2a8d8b535f473a4209061b4b53de20317509c8eab80694c",
+    "size_bytes": 86016,
+    "source": "dmBots/dm-tools USB2CANFD (single channel)",
+    "collected": "2026-10-12"
+  },
+  {
+    "file": "dm_usb2canfd_app_1006.enc",
+    "source_url": "https://raw.githubusercontent.com/dmBots/dm-tools/master/USB2CANFD/%E5%9B%BA%E4%BB%B6/%E5%87%BA%E5%8E%82%E5%9B%BA%E4%BB%B6/dm_usb2canfd_app_1006.enc",
+    "sha256": "741f989614bec849376711e6636f466c4aa6707dbe12df7271090367f7104e96",
+    "size_bytes": 86016,
+    "source": "dmBots/dm-tools USB2CANFD (single channel)",
+    "collected": "2026-10-12"
+  },
+  {
+    "file": "dm_usb2canfd_gsusb_1003.enc",
+    "source_url": "https://raw.githubusercontent.com/dmBots/dm-tools/master/USB2CANFD/%E5%9B%BA%E4%BB%B6/socketcan/gsusb%E5%85%8D%E9%A9%B1%E5%9B%BA%E4%BB%B6/dm_usb2canfd_gsusb_1003.enc",
+    "sha256": "489a24f11a72b727793be32958658b629b86f8599c0fea64a87daa630d6bd14e",
+    "size_bytes": 49152,
+    "source": "dmBots/dm-tools USB2CANFD (single channel)",
+    "collected": "2026-10-12"
+  },
+  {
+    "file": "dm_usb2fdcan_slcan_1002.enc",
+    "source_url": "https://raw.githubusercontent.com/dmBots/dm-tools/master/USB2CANFD/%E5%9B%BA%E4%BB%B6/socketcan/slcan%E5%9B%BA%E4%BB%B6/dm_usb2fdcan_slcan_1002.enc",
+    "sha256": "38e77f8caf19a8cf14ca1424ccbed6f185ebf96a9a21a621cd4323e469128cb7",
+    "size_bytes": 81920,
+    "source": "dmBots/dm-tools USB2CANFD (single channel)",
+    "collected": "2026-10-12"
+  }
+]

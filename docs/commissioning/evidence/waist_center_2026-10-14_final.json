@@ -1,0 +1,75 @@
+{
+  "stops": [
+    -0.5407415884641793,
+    0.5132753490501258,
+    -0.5407415884641793,
+    0.5132753490501258,
+    -0.5407415884641793
+  ],
+  "zeroed": true,
+  "max_torque": 6.0,
+  "hard_torque": 9.0,
+  "expected_span": 1.04715,
+  "speed": 0.4,
+  "speed_stop": 1.5,
+  "resumed_from": "waist_center_2026-10-14_v4.json",
+  "center_before_zero": -0.01373311970702673,
+  "after": {
+    "position": -0.000953688868543523,
+    "velocity": -0.01831501831501825,
+    "torque": -0.146520146520146,
+    "mos_c": 31,
+    "rotor_c": 24,
+    "status": 0,
+    "raw": "0d 7f fd 7f e7 fe 1f 18"
+  },
+  "disabled_verification": [
+    {
+      "position": -0.000953688868543523,
+      "velocity": -0.006105006105006083,
+      "torque": -0.04884004884004867,
+      "mos_c": 31,
+      "rotor_c": 24,
+      "status": 0,
+      "raw": "0d 7f fd 7f f7 ff 1f 18"
+    },
+    {
+      "position": -0.000953688868543523,
+      "velocity": 0.006105006105006083,
+      "torque": -0.146520146520146,
+      "mos_c": 31,
+      "rotor_c": 24,
+      "status": 0,
+      "raw": "0d 7f fd 80 07 fe 1f 18"
+    },
+    {
+      "position": -0.000953688868543523,
+      "velocity": -0.01831501831501825,
+      "torque": -0.146520146520146,
+      "mos_c": 31,
+      "rotor_c": 24,
+      "status": 0,
+      "raw": "0d 7f fd 7f e7 fe 1f 18"
+    },
+    {
+      "position": -0.000953688868543523,
+      "velocity": -0.006105006105006083,
+      "torque": -0.04884004884004867,
+      "mos_c": 31,
+      "rotor_c": 24,
+      "status": 0,
+      "raw": "0d 7f fd 7f f7 ff 1f 18"
+    },
+    {
+      "position": -0.000953688868543523,
+      "velocity": 0.006105006105006083,
+      "torque": -0.04884004884004867,
+      "mos_c": 31,
+      "rotor_c": 24,
+      "status": 0,
+      "raw": "0d 7f fd 80 07 ff 1f 18"
+    }
+  ],
+  "runtime_waist_offset": 0,
+  "runtime_config": "/home/sunrise/roboparty_deploy/src/inference/robots/rpo/robot.yaml"
+}

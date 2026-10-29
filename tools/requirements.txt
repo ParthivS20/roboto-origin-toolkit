@@ -1,0 +1,4 @@
+# External-computer Damiao SLCAN commissioning only.
+# RDK X5 motor_comms_verifier uses the Python standard library.
+python-can==4.6.1
+pyserial==3.5
